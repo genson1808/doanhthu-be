@@ -1,0 +1,15 @@
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/bin/Debug/net6.0/MISA.KT.DL.deps.json
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/bin/Debug/net6.0/MISA.KT.DL.dll
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/bin/Debug/net6.0/MISA.KT.DL.pdb
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/bin/Debug/net6.0/MISA.KT.Common.dll
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/bin/Debug/net6.0/MISA.KT.Common.pdb
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/MISA.KT.DL.csproj.AssemblyReference.cache
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/MISA.KT.DL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/MISA.KT.DL.AssemblyInfoInputs.cache
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/MISA.KT.DL.AssemblyInfo.cs
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/MISA.KT.DL.csproj.CoreCompileInputs.cache
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/MISA.KT.DL.csproj.CopyComplete
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/MISA.KT.DL.dll
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/refint/MISA.KT.DL.dll
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/MISA.KT.DL.pdb
+/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.DL/obj/Debug/net6.0/ref/MISA.KT.DL.dll

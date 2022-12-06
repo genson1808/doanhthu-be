@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TzcL0T/Y02XSHXoJa+2Tb7nqgVmLhjKqk04+86NvRvJ9N2X7X7Fd90695mV5H3Hhz1/Atu89OQPNvcEBfkigXQ==",
+  "success": true,
+  "projectFilePath": "/Users/genson/workspace/misa/khoanthu/MISA.KT/MISA.KT.API/MISA.KT.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/genson/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/genson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/genson/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/genson/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/genson/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/genson/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

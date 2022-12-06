@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.KT.API", "MISA.KT.API\MISA.KT.API.csproj", "{F1F229AD-BABB-486C-BFB0-55A3F0E65800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.KT.BL", "MISA.KT.BL\MISA.KT.BL.csproj", "{2BAB1540-2FA2-4DE6-86BA-C0CB626DE5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.KT.DL", "MISA.KT.DL\MISA.KT.DL.csproj", "{02CD4E35-02E2-4D6D-8DB5-BD55BDF09049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.KT.Common", "MISA.KT.Common\MISA.KT.Common.csproj", "{82DADAA7-DA8F-4318-82B5-C9C58C707161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F229AD-BABB-486C-BFB0-55A3F0E65800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F229AD-BABB-486C-BFB0-55A3F0E65800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F229AD-BABB-486C-BFB0-55A3F0E65800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F229AD-BABB-486C-BFB0-55A3F0E65800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAB1540-2FA2-4DE6-86BA-C0CB626DE5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAB1540-2FA2-4DE6-86BA-C0CB626DE5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAB1540-2FA2-4DE6-86BA-C0CB626DE5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAB1540-2FA2-4DE6-86BA-C0CB626DE5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CD4E35-02E2-4D6D-8DB5-BD55BDF09049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CD4E35-02E2-4D6D-8DB5-BD55BDF09049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CD4E35-02E2-4D6D-8DB5-BD55BDF09049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CD4E35-02E2-4D6D-8DB5-BD55BDF09049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DADAA7-DA8F-4318-82B5-C9C58C707161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DADAA7-DA8F-4318-82B5-C9C58C707161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DADAA7-DA8F-4318-82B5-C9C58C707161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DADAA7-DA8F-4318-82B5-C9C58C707161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
